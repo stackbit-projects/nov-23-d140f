@@ -310,7 +310,7 @@ sections:
     type: MediaGallerySection
   - colors: colors-f
     elementId: ''
-    title: Remote doesn’t mean alone. Here are so great features
+    title: Key value propositions
     items:
       - type: ItemBlock
         title: Faster
