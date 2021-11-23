@@ -675,7 +675,7 @@ sections:
         altText: Learn more
         url: /
         showIcon: true
-        icon: arrowLeft
+        icon: arrowRight
         iconPosition: right
         style: link
         elementId: ''
