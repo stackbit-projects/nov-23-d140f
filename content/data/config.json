@@ -76,5 +76,37 @@
                 ]
             }
         }
+    },
+    "header": {
+        "headerVariant": "variant-a",
+        "primaryColors": "colors-a",
+        "secondaryColors": "colors-a",
+        "title": "lorem-ipsum",
+        "isTitleVisible": false,
+        "logo": {
+            "url": "https://assets.stackbit.com/components/images/default/default-image.png",
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": "",
+            "styles": {
+                "self": {
+                    "opacity": 100
+                }
+            },
+            "type": "ImageBlock"
+        },
+        "primaryLinks": [],
+        "secondaryLinks": [],
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": [
+                    "pt-5",
+                    "pb-5",
+                    "pl-4",
+                    "pr-4"
+                ]
+            }
+        }
     }
 }
