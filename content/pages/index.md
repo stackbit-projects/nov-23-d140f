@@ -308,7 +308,7 @@ sections:
         textAlign: center
     imageSizePx: 240
     type: MediaGallerySection
-  - colors: colors-f
+  - colors: colors-h
     elementId: ''
     title: Key value propositions
     items:
