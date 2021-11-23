@@ -364,6 +364,7 @@ sections:
     posts:
       - content/pages/blog/post-four.md
       - content/pages/blog/postlayout-0j7kry2cp.md
+      - content/pages/blog/postlayout-4qlwbzkjv.md
       - content/pages/blog/post-three.md
     styles:
       self:
