@@ -344,6 +344,7 @@ sections:
             self:
               opacity: 100
           type: ImageBlock
+          url: /images/focused.svg
         styles:
           title:
             textAlign: center
