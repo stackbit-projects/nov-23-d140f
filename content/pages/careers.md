@@ -104,8 +104,7 @@ sections:
           explicabo.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/faster.svg
           altText: Item image
       - type: ItemBlock
         title: Item Title
