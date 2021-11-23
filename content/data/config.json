@@ -46,5 +46,82 @@
                 ]
             }
         }
+    },
+    "footer": {
+        "colors": "colors-f",
+        "logo": {
+            "type": "ImageBlock",
+            "url": "https://assets.stackbit.com/components/images/default/logo.svg",
+            "altText": "Your logo image",
+            "caption": ""
+        },
+        "title": "Personal",
+        "text": "A description of your brand",
+        "contacts": {
+            "phoneNumber": "850-123-5021",
+            "phoneAltText": "Call me",
+            "email": "john@doe.com",
+            "emailAltText": "Email me"
+        },
+        "copyrightText": "Copyright text",
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Projects",
+                "url": "/",
+                "altText": "Projects"
+            },
+            {
+                "type": "Link",
+                "label": "Documentation",
+                "url": "/",
+                "altText": "Documentation"
+            }
+        ],
+        "socialLinks": [
+            {
+                "type": "facebook",
+                "icon": "facebook",
+                "label": "",
+                "altText": "facebook",
+                "url": "/",
+                "elementId": false,
+                "showIcon": true
+            },
+            {
+                "type": "twitter",
+                "icon": "twitter",
+                "label": "",
+                "altText": "twitter",
+                "url": "/",
+                "elementId": false,
+                "showIcon": true
+            }
+        ],
+        "legalLinks": [
+            {
+                "type": "Link",
+                "label": "Privacy Policy",
+                "url": "/",
+                "altText": "Privacy Policy"
+            },
+            {
+                "type": "Link",
+                "label": "Terms & Conditions",
+                "url": "/",
+                "altText": "Terms & Conditions"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pl-4",
+                    "pr-4"
+                ]
+            }
+        }
     }
 }
