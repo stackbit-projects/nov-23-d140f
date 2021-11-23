@@ -16,11 +16,6 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
-    feature:
-      type: ImageBlock
-      url: /images/hero-1.png
-      altText: Image alt text
-      caption: Image caption
     styles:
       self:
         height: auto
