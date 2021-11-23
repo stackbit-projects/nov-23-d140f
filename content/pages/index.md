@@ -315,9 +315,11 @@ sections:
       - type: ItemBlock
         title: Faster
         text: >
-          Learn how top tech companies have learned working remote using our
-          product. Learn how top tech companies have learned working remote
-          using our product.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet
+          nibh a nibh varius ultrices. Maecenas ornare convallis tortor, id
+          venenatis velit malesuada ut. In porta nec quam ac sodales. Etiam a
+          convallis mi. Aenean a neque metus. Cras consectetur tempor aliquam.
+          Fusce mollis mauris vel fermentum fermentum.
         featuredImage:
           altText: altText of the image
           caption: Caption of the image
