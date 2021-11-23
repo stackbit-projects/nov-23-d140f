@@ -308,7 +308,7 @@ sections:
         textAlign: center
     imageSizePx: 240
     type: MediaGallerySection
-  - colors: colors-h
+  - colors: colors-f
     elementId: ''
     title: Remote doesn’t mean alone. Here are so great features
     subtitle: >-
