@@ -722,7 +722,6 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        textAlign
         borderRadius: none
         borderWidth: 0
         borderStyle: none
