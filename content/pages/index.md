@@ -45,6 +45,17 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    feature:
+      url: >-
+        https://assets.stackbit.com/components/videos/default/stackbit-for-marketers.mp4
+      thumbnailUrl: >-
+        https://assets.stackbit.com/components/images/default/stackbit-for-marketers.jpeg
+      autoplay: false
+      loop: false
+      muted: false
+      controls: false
+      elementId: ''
+      type: VideoBlock
   - elementId: ''
     colors: colors-f
     title: Where did everyone go?
