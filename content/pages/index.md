@@ -325,6 +325,7 @@ sections:
             self:
               opacity: 100
           type: ImageBlock
+          url: /images/faster.svg
         styles:
           title:
             textAlign: center
