@@ -310,7 +310,7 @@ sections:
     type: MediaGallerySection
   - elementId: ''
     variant: variant-a
-    colors: colors-a
+    colors: colors-f
     title: About us
     subtitle: Featured people section example
     actions: []
