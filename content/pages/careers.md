@@ -114,8 +114,7 @@ sections:
           explicabo.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/focused.svg
           altText: Item image
     actions:
       - type: Button
