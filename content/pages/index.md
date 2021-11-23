@@ -35,10 +35,6 @@ sections:
           label: Sign me up to receive updates
           width: full
       submitLabel: Send Message
-    feature:
-      type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/contact.png'
-      altText: Contact form image
     styles:
       self:
         height: auto
