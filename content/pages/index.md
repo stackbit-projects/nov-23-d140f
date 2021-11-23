@@ -660,7 +660,7 @@ sections:
         textAlign: left
     type: TestimonialsSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-f
     backgroundImage: {}
     title: Let's do this
     text: >-
