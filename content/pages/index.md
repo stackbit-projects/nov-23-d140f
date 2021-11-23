@@ -316,7 +316,8 @@ sections:
         title: Faster
         text: >
           Learn how top tech companies have learned working remote using our
-          product.
+          product. Learn how top tech companies have learned working remote
+          using our product.
         featuredImage:
           altText: altText of the image
           caption: Caption of the image
