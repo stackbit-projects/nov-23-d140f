@@ -371,7 +371,7 @@ sections:
     columns: 1
     styles:
       self:
-        height: screen
+        height: auto
         width: narrow
         margin:
           - mt-0
