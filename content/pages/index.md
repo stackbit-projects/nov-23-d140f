@@ -703,7 +703,7 @@ sections:
       text:
         textAlign: left
   - elementId: contact-form
-    colors: colors-c
+    colors: colors-h
     title: Contact us
     text: We look forward to hearing from you.
     form:
