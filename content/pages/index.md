@@ -805,7 +805,7 @@ sections:
       title:
         textAlign: center
       subtitle:
-        fontWeight: 800
+        fontWeight: 400
         fontStyle: normal
         textAlign: center
       actions:
