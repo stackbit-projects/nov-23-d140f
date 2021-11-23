@@ -58,6 +58,66 @@ sections:
       type: VideoBlock
   - elementId: ''
     colors: colors-f
+    backgroundImage:
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
+    title: This Is A Big Hero Headline
+    subtitle: The section subtitle
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions:
+      - type: Button
+        label: Get Started
+        url: /
+        style: primary
+        elementId: hero-main-button
+      - type: Button
+        label: Learn More
+        url: /
+        style: secondary
+    feature:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/hero.png'
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+  - elementId: ''
+    colors: colors-f
     title: Where did everyone go?
     text: >
       Learn how top tech companies have learned working remote using our
