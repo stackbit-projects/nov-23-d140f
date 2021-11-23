@@ -661,7 +661,8 @@ sections:
     type: TestimonialsSection
   - elementId: ''
     colors: colors-a
-    backgroundImage: {}
+    backgroundImage:
+      url: /images/faster.svg
     title: Let's do this
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
