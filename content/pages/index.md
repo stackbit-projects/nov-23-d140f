@@ -366,7 +366,7 @@ sections:
             textAlign: center
           text:
             textAlign: center
-    columns: 2
+    columns: 1
     styles:
       self:
         height: auto
