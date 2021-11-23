@@ -246,7 +246,7 @@ sections:
           name: name
           label: Name
           placeholder: Your name
-          isRequired: false
+          isRequired: true
           width: 1/2
         - type: EmailFormControl
           name: email
