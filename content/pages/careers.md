@@ -97,7 +97,7 @@ sections:
     subtitle: The section subtitle
     items:
       - type: ItemBlock
-        title: Item Title
+        title: this is my title
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
